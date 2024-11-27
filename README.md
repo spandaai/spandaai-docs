@@ -11,7 +11,7 @@ Welcome to the **SpandaAI Documentation** repository. This serves as the central
 - [Best Practices](./Best_Practices/Coding_Standards.md)
 - [Contributing](./Contributing/README.md)
 - [CI/CD](./CI_CD/README.md)
-- [Streamlined Workflow and Task Management Guide](./workflow_and_task_management.md)
+- [Streamlined Workflow and Task Management Guide](./Workflow/workflow_and_task_management.md)
 - [Repository-Specific Documentation](./Repos/Platform.md)
 
 ## Vision and Roadmap
