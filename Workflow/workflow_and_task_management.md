@@ -195,3 +195,13 @@ To ensure smooth development cycles from feature definition to deployment, we've
 
 ### 3.3 Development
 
+- **Branching Strategy**: Create a feature branch in the respective repository using Gitflow.
+  ```bash
+  git checkout -b feature/feature-name
+  ```
+- **Implement Feature**: Develop the feature following coding standards and best practices.
+- **Commit Changes**: Commit changes with meaningful messages linking to JIRA issues.
+  ```bash
+  git commit -m "Add [feature]: Description of your changes"
+  ```
+
