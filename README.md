@@ -1,5 +1,4 @@
 # SpandaAI Documentation
-<<<<<<< HEAD
 Central repository for all SpandaAI documentation.
 =======
 
@@ -42,4 +41,3 @@ Links to documentation tailored for each primary repository.
 ---
 
 *For any questions or feedback, please contact the Documentation Team at [docs@spandaai.com](mailto:docs@spandaai.com).*
->>>>>>> b9054424b602070f1508359902803d905da6d255
