@@ -357,7 +357,7 @@ SpandaAI’s scaling and market capture strategies include:
 
 **A11:**
 
-# **Customer Success Story: Transforming Academic Excellence with SpandaAI’s GenAI Platform**
+## **Customer Success Story: Transforming Academic Excellence with SpandaAI’s GenAI Platform**
 
 ## **Client Background**
 
