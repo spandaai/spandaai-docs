@@ -137,7 +137,7 @@ The SpandaAI GenAI Platform is built on a **3-layered architecture** comprising:
 
 **A11:**
 
-All technical documentation, including API references, integration guides, and developer tutorials, are available on the internal documentation portal at [internal.docs.spandaai.com](http://internal.docs.spandaai.com). Additionally, each repository contains README files and Wiki sections for specific modules.
+All technical documentation, including API references, integration guides, and developer tutorials, are available on the internal documentation portal at [internal.docs.spandaai.com](https://github.com/spandaai/spandaai-docs)
 
 ### Q12: How do we onboard new developers and team members to the SpandaAI platform?
 
