@@ -13,6 +13,8 @@ Welcome to the **SpandaAI Documentation** repository. This serves as the central
 - [CI/CD](./CI_CD/README.md)
 - [Streamlined Workflow and Task Management Guide](./Workflow/workflow_and_task_management.md)
 - [Repository-Specific Documentation](./Repos/Platform.md)
+- [FAQs](./FAQs/FAQs.md)
+
 
 ## Vision and Roadmap
 
