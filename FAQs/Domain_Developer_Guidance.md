@@ -278,11 +278,3 @@ Deploy the updated Domain Layer along with the Solutions Layer to ensure that th
 8. **Leverage Open-Source and Extensibility**: Utilize open-source frameworks and ensure extensibility.
 
 ---
-
-## Additional Resources
-- [Clean Architecture by Robert C. Martin](#)
-- [Domain-Driven Design by Eric Evans](#)
-- [Django Documentation on Middleware and Authentication](#)
-- [Keycloak Documentation](https://www.keycloak.org/documentation)
-- [ELK Stack Documentation](https://www.elastic.co/guide/index.html)
-- [Dependency Injection in Python](#)
